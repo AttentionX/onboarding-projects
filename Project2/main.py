@@ -14,7 +14,7 @@ while True:
     print("Type Prompt: ")
     prompt = input()
 
-    prompt = context += prompt
+    context += prompt
 
     response = openai.Completion.create(engine=engine, prompt=prompt,temperature=temperature, max_tokens=max_tokens)
 
