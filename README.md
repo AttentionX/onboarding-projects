@@ -10,6 +10,6 @@ Feel free to create personal branches
     git checkout -b adam  
     ... add code ...  
     git add .  
-    git commit -m ""  
-    git push origin adam  
-    ... create pull request to team1 branch...  
+    git commit -m "${explanation}"  
+    git push origin {name}  
+    ... create pull request to team{teamnumber} branch...  
