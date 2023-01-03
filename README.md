@@ -1,8 +1,8 @@
 # onboarding-projects
 
-Project1: Summarize the transformer paper
-Project2: Create a chatbot
-Project3: Make something you want!
+## Project1: Summarize the transformer paper
+## Project2: Create a chatbot
+## Project3: Make something you want!
 
 check for updates  
     git clone https://github.com/AttentionX/onboarding-projects.git  
