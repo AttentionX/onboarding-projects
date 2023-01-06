@@ -10,6 +10,7 @@ temperature = 0.1
 
 context = ''
 
+index = 0
 while True:
     print("Type Prompt: ")
     prompt = input()
@@ -21,3 +22,4 @@ while True:
     context += response
 
     print(index, response.choices[0].text)
+    index += 1
