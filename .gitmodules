@@ -1,21 +1,22 @@
-[submodule "onboarding-project1-team1"]
-	path = onboarding-project1-team1
-	url = https://github.com/AttentionX/onboarding-project1-team1.git
-[submodule "onboarding-project1-team2"]
-	path = onboarding-project1-team2
-	url = https://github.com/AttentionX/onboarding-project1-team2.git
-[submodule "onboarding-project1-team3"]
-	path = onboarding-project1-team3
-	url = https://github.com/AttentionX/onboarding-project1-team3.git
-[submodule "onboarding-project1-team4"]
-	path = onboarding-project1-team4
-	url = https://github.com/AttentionX/onboarding-project1-team4.git
-[submodule "onboarding-project1-team5"]
-	path = onboarding-project1-team5
-	url = https://github.com/AttentionX/onboarding-project1-team5.git
-[submodule "onboarding-project1-team6"]
-	path = onboarding-project1-team6
-	url = https://github.com/AttentionX/onboarding-project1-team6.git
-[submodule "onboarding-project1-team7"]
-	path = onboarding-project1-team7
-	url = https://github.com/AttentionX/onboarding-project1-team7.git
+
+[submodule "onboarding-projects-team1"]
+	path = onboarding-projects-team1
+	url = https://github.com/AttentionX/onboarding-projects-team1.git
+[submodule "onboarding-projects-team2"]
+	path = onboarding-projects-team2
+	url = https://github.com/AttentionX/onboarding-projects-team2.git
+[submodule "onboarding-projects-team3"]
+	path = onboarding-projects-team3
+	url = https://github.com/AttentionX/onboarding-projects-team3.git
+[submodule "onboarding-projects-team4"]
+	path = onboarding-projects-team4
+	url = https://github.com/AttentionX/onboarding-projects-team4.git
+[submodule "onboarding-projects-team5"]
+	path = onboarding-projects-team5
+	url = https://github.com/AttentionX/onboarding-projects-team5.git
+[submodule "onboarding-projects-team6"]
+	path = onboarding-projects-team6
+	url = https://github.com/AttentionX/onboarding-projects-team6.git
+[submodule "onboarding-projects-team7"]
+	path = onboarding-projects-team7
+	url = https://github.com/AttentionX/onboarding-projects-team7.git
