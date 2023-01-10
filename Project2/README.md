@@ -1,11 +1,11 @@
 # Onboarding Project 2
 
-Goal: Create a Chatbot that answers questions given to the Transformer paper
+Goal: Create a Chatbot that answers questions given to the Transformer paper 
 
-Example)
-transformer = `{paper}`
+Example)  
+transformer = `{paper}`  
 
-Q: What is the transformer architecture?
+Q: What is the transformer architecture?  
 A: The transformer is made of an encoder and decoder each with a self-attention submodule and a feedforward network..
 
 Tip
